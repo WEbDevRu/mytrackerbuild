@@ -1,27 +1,75 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a3e08d2e446b97c5fdfcbd2df4d8768",
+    "revision": "143133ba247df8399559ba3e61854695",
     "url": "/index.html"
   },
   {
-    "revision": "ddab5c2229da90b6835c",
-    "url": "/static/css/main.e1c24a72.chunk.css"
+    "revision": "31033fe7aad874c6476e",
+    "url": "/static/css/main.a96f1dec.chunk.css"
   },
   {
-    "revision": "e8539f46b4fe94325bba",
-    "url": "/static/js/2.dee434bf.chunk.js"
+    "revision": "417f227a5aa6f557ae1e",
+    "url": "/static/js/2.3e6a9c59.chunk.js"
   },
   {
     "revision": "ef7f0128066dad638e14e7838f835a83",
-    "url": "/static/js/2.dee434bf.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3e6a9c59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddab5c2229da90b6835c",
-    "url": "/static/js/main.44970be9.chunk.js"
+    "revision": "31033fe7aad874c6476e",
+    "url": "/static/js/main.bad272b4.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
     "url": "/static/js/runtime-main.83c3e0c4.js"
+  },
+  {
+    "revision": "26084d2a036508141030c9025bd393d2",
+    "url": "/static/media/SegoeUI-Bold.26084d2a.woff"
+  },
+  {
+    "revision": "4e6aa395c8d7021f74f9a564980075a9",
+    "url": "/static/media/SegoeUI-Bold.4e6aa395.woff2"
+  },
+  {
+    "revision": "5b6a9d67c02eb7ec84547f91e71944b5",
+    "url": "/static/media/SegoeUI-BoldItalic.5b6a9d67.woff"
+  },
+  {
+    "revision": "a6113ba62752f6cd0100f5e1d531a152",
+    "url": "/static/media/SegoeUI-BoldItalic.a6113ba6.woff2"
+  },
+  {
+    "revision": "42582a15b4c81e8e2efa0f00224b18ab",
+    "url": "/static/media/SegoeUI-Italic.42582a15.woff2"
+  },
+  {
+    "revision": "f2c74805b4dfdaba9105f517a4d64de3",
+    "url": "/static/media/SegoeUI-Italic.f2c74805.woff"
+  },
+  {
+    "revision": "41c503a7188f889e322439ae92fe0c64",
+    "url": "/static/media/SegoeUI-Light.41c503a7.woff2"
+  },
+  {
+    "revision": "b3c50d417836770361c814ab0da9f7a1",
+    "url": "/static/media/SegoeUI-Light.b3c50d41.woff"
+  },
+  {
+    "revision": "2c06a377434e44803eb33e8c97174be2",
+    "url": "/static/media/SegoeUI-SemiBold.2c06a377.woff2"
+  },
+  {
+    "revision": "b58d700f72fcc6fc3f76a98c1129df0f",
+    "url": "/static/media/SegoeUI-SemiBold.b58d700f.woff"
+  },
+  {
+    "revision": "930366d90a7e36fbdf6d2026f85cc785",
+    "url": "/static/media/SegoeUI.930366d9.woff"
+  },
+  {
+    "revision": "c4021b954c09bc4bea9a536184f112d4",
+    "url": "/static/media/SegoeUI.c4021b95.woff2"
   },
   {
     "revision": "5bd21241ec271d78a9bb2e0413e9e284",
